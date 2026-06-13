@@ -125,6 +125,3 @@ cat /usr/share/nginx/html/index.html
 exit
 This confirms the Pod is fully operational and you can interact with it just like a local process.
 --------------------------------------------------------
-
-
---------------------------------------------------------
